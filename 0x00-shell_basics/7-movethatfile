@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/betty /tmp/my_first_directory
+move the file from  /tmp/betty to /tmp/my_first_directory
